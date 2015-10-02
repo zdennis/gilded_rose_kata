@@ -3,7 +3,7 @@
 This is a Ruby version of the Gilded Rose Kata, found
 [here](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
 
-This is a refactorying kata, so you will be starting with a legacy
+This is a refactoring kata, so you will be starting with a legacy
 code base.  To work the Kata, clone this git repository and checkout
 the tag 'start-here'. Read the description below for the "rules"
 involving this kata.
