@@ -86,11 +86,11 @@ We have recently signed a supplier of conjured items. This requires an update to
 
 - "Conjured" items degrade in Quality twice as fast as normal items
 
-Feel free to make any changes to the UpdateQuality method and add any
+Feel free to make any changes to the `update_quality` method and add any
 new code as long as everything still works correctly. However, do not
 alter the Item class or Items property as those belong to the goblin
 in the corner who will insta-rage and one-shot you as he doesn't
-believe in shared code ownership (you can make the UpdateQuality
+believe in shared code ownership (you can make the `update_quality`
 method and Items property static if you like, we'll cover for
 you). Your work needs to be completed by Friday, February 18, 2011
 08:00:00 AM PST.
